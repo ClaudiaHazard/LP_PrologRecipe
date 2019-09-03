@@ -1,0 +1,16 @@
+Pasos de Chefs:
+
+1)
+["Manjar","Harina","Arroz"]
+
+2)
+["Zanahoria,"Panqueque","Leche","Huevo","Azucar"]
+
+3)
+["Arroz especial","Azucar","Helado","Leche"]
+
+4)
+["Helado","Zanahoria","Leche","Arroz con huevo","Masa"]
+
+5)
+["Entrada","Manjar"] 
